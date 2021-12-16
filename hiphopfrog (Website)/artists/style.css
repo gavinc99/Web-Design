@@ -1,0 +1,92 @@
+body{
+	background-color:black;
+	margin:auto;	
+}
+.image {
+  width: 350px;
+  height: 300px;
+  border-radius: 25px;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 300px;
+  width: 350px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+  background-repeat:no-repeat;
+  border-radius: 25px;
+  
+}
+
+.imghov:hover .overlay {
+  opacity: 0.5;
+}
+.text {
+  color: black;
+  font-size: 40px;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-style:italic;
+}
+
+.bg-dark {
+	height:150px;
+	width:930px;
+	background-color:black!important;
+	position:absolute;
+	font-size:35px;
+}
+.space{
+	height:250px;
+}
+.header{
+	height:200px;
+	width:100%;
+}
+.wrapper{
+	height:100%;
+	width:100%;
+}
+.w2{
+	height:100%;
+	width:55%;
+	background-color:black;
+	float:left;
+	padding-top:2%
+}
+.w3{
+	height:100%;
+	width:45%;
+	background-color:black;
+	float:right;
+	padding-top:2%;
+}
+h1{
+	float:right;
+	font-size:80px;
+	color:white;
+}
+.frog{
+	height:130px;
+	width:130px;
+}
+p{
+	font-size:45px;
+}
+.nav-link:hover{
+	opacity:1;
+}
+.container{
+	
+}
+h2{
+	font-size:45px;
+}

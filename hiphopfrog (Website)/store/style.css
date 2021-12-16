@@ -1,0 +1,118 @@
+body{
+	background-color:black;
+	margin:auto;	
+}
+.bg-dark {
+	height:150px;
+	width:930px;
+	background-color:black!important;
+	position:absolute;
+	font-size:35px;
+	padding-left:16px;
+}
+}
+.nav-link:hover{
+	opacity:1;
+}
+.space{
+	height:100px;
+	width:100%;
+	padding-top:150px;
+}
+.header{
+	height:200px;
+	width:100%;
+}
+.wrapper{
+	height:100%;
+	width:100%;
+}
+h1{
+	float:right;
+	font-size:80px;
+	color:white;
+}
+h2{
+	font-size:45px;
+}
+.frog{
+	height:130px;
+	width:130px;
+}
+.w2{
+	height:100%;
+	width:55%;
+	background-color:black;
+	float:left;
+	padding-top:2%
+}
+.w3{
+	height:100%;
+	width:45%;
+	background-color:black;
+	float:right;
+	padding-top:2%;
+}
+.space{
+	height:250px;
+}
+.croaks{
+	height:400px;
+	width:60%;
+	float:left;
+}
+.hat{
+	height:400px;
+	width:40%;
+	float:right;
+}
+.vinyl{
+	height:500px;
+	width:100%;
+	float:left;
+}
+.shirt{
+	height:400px;
+	width:40%;
+	float:left;
+}
+.gym{
+	height:400px;
+	width:60%;
+	float:right;
+}
+.croaks img{
+	width:100%;
+	height:100%;
+}
+.hat img{
+	width:100%;
+	height:100%;
+}
+.vinyl img{
+	width:100%;
+	height:100%;
+}
+.shirt img{
+	width:100%;
+	height:100%;
+}
+.gym img{
+	width:100%;
+	height:100%;
+}
+.croaks { transition: all .2s ease-in-out; }
+.croaks:hover { transform: scale(1.1); }
+
+.hat { transition: all .2s ease-in-out; }
+.hat:hover { transform: scale(1.1); }
+
+.vinyl { transition: all .2s ease-in-out; }
+.vinyl:hover { transform: scale(1.1); }
+
+.shirt { transition: all .2s ease-in-out; }
+.shirt:hover { transform: scale(1.1); }
+
+.gym { transition: all .2s ease-in-out; }
+.gym:hover { transform: scale(1.1); }
+

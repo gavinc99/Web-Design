@@ -1,0 +1,56 @@
+body{
+	background-color:black;
+	margin:auto;
+	
+}
+
+.bg-dark {
+	height:150px;
+	width:100%;
+	background-color:black!important;
+	position:absolute;
+	font-size:35px;
+	z-index:10;
+}
+.header{
+	height:200px;
+	width:100%;
+}
+.wrapper{
+	height:100%;
+	width:100%;
+}
+.w2{
+	height:100%;
+	width:55%;
+	background-color:black;
+	float:left;
+	padding-top:2%
+}
+.w3{
+	height:100%;
+	width:45%;
+	background-color:black;
+	float:right;
+	padding-top:2%;
+}
+h1{
+	float:right;
+	font-size:80px;
+	color:white;
+}
+.frog{
+	height:130px;
+	width:130px;
+}
+p{
+	font-size:45px;
+}
+.video{
+    right: 0;
+    bottom: 0;
+    width: 100%; 
+    min-height: 400px;
+    padding-top:30px;
+    z-index:0;
+}

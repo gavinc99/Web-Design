@@ -1,0 +1,129 @@
+body{
+	background-color:black;
+	margin:auto;	
+	z-index:10;
+}
+.bg-dark {
+	height:150px;
+	width:930px;
+	background-color:black!important;
+	position:absolute;
+	font-size:35px;
+	padding-left:16px;
+}
+.space{
+	height:100px;
+	width:100%;
+	padding-top:180px;
+}
+.header{
+	height:200px;
+	width:100%;
+}
+.wrapper{
+	height:100%;
+	width:100%;
+}
+.w2{
+	height:100%;
+	width:55%;
+	background-color:black;
+	float:left;
+	padding-top:2%
+}
+.w3{
+	height:100%;
+	width:45%;
+	background-color:black;
+	float:right;
+	padding-top:2%;
+}
+.wrapper2{
+	height:600px;
+	width:30%;
+	background-color:black;
+	float:right;
+	padding-bottom:200px;
+	padding-top:100;
+}
+
+h1{
+	float:right;
+	font-size:80px;
+	color:white;
+}
+.frog{
+	height:130px;
+	width:130px;
+}
+p{
+	font-size:20px;
+	color:white;
+}
+.nav-link:hover{
+	opacity:1;
+}
+h2{
+	font-size:45px;
+	color:white;
+
+}
+h3{
+	font-size:20px;
+	color:white;
+}
+.social{
+	padding-top:500px;
+	height:200px;
+	width:100%;
+
+}
+#slideshow{ 
+    position: relative; 
+    width: 320px; 
+    height: 320px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+    float:left;
+}
+#slideshow>div{ 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+   	padding-top:20px;
+
+  
+}
+.slides{
+	width:669px;
+	height:380px;
+}
+.latest{
+	height:380px;
+	width:100%;
+	background-color:red;
+	padding-top:1000px;
+}
+.hidden {
+  display: none;
+}
+.hidden2 {
+	display: none;
+}
+.hidden3{
+	display: none;
+}
+#fb{
+	height:39px;
+	width:50px;
+	padding-left:10px;
+}
+#tw{
+	height:40px;
+	width:50px;
+	padding-left:10px;
+}
+.animation{
+	padding-top:500px;
+}
